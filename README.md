@@ -1,6 +1,7 @@
 # Crowd Counting using CNN
 
-![Crowd Counting](D:\Akshat jain\tpddl\TFODCourse\Tensorflow\workspace\images\test\2658.jpg)
+![Uploading image.png…]()
+
 
 **Crowd Counting using CNN** is an open-source project aimed at accurately estimating crowd density from images and videos. This repository contains the implementation of a crowd counting system leveraging Convolutional Neural Networks (CNN).
 
@@ -25,7 +26,7 @@ Crowd counting is a significant computer vision task with applications in crowd 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/crowd-counting-cnn.git
+   git clone https://github.com/v0rtex/Crowd-Counting.git
    ```
 2. Install the required dependencies:
    ```
